@@ -1,117 +1,75 @@
-````markdown name=README.md
-# 👋 Hey, I'm Tauhid Shahriar  
-**🎓 CSE Student • 📱 Android Developer • 🤖 IoT + Arduino Builder**
+# 👋 Hey, I'm Tauhid Shahriar
 
-<p align="left">
-  <a href="https://github.com/Tauhid3K?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/Tauhid3K?style=for-the-badge">
-  </a>
-  <a href="https://github.com/Tauhid3K?tab=repositories">
-    <img alt="Repos" src="https://img.shields.io/badge/Repos-Explore-blue?style=for-the-badge">
-  </a>
-  <a href="https://github.com/Tauhid3K">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Tauhid3K&style=for-the-badge">
-  </a>
-</p>
+🎓 CSE Student | 📱 Android Developer | 🤖 IoT & Arduino Builder  
+💡 I build real-world systems using code + hardware + logic
 
 ---
 
-## 🧭 Quick Navigation
+## 🎮 Quick Navigation
 - [💡 About Me](#-about-me)
 - [🛠️ Tech Stack](#️-tech-stack)
-- [🚀 Featured Projects](#-featured-projects)
-- [🎯 Current Goals](#-current-goals)
+- [🚀 Projects](#-projects)
 - [📊 GitHub Stats](#-github-stats)
 - [📫 Connect](#-connect-with-me)
 
 ---
 
 ## 💡 About Me
-I enjoy building **real-world systems** using **code + hardware + logic**.  
-Currently focused on **Android development**, **IoT systems**, and strengthening my **DSA** skills.
+> I like building things that solve real problems.
 
-### ⚡ What I'm up to
-- ✅ Learning: **DSA + Android Architecture**
-- 🔧 Building: **RFID Attendance System**
-- 🎯 Next: **3–5 portfolio-ready projects**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E11F21?style=for-the-badge&logo=coffeescript&logoColor=white)
-
-### Tools / Platforms
-![Android Studio](https://img.shields.io/badge/Android%20Studio-2E7D32?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-
-### Interests
-- 🔌 Arduino / IoT (RFID, sensors, Bluetooth)
-- 🌐 Basic Web Development
-- 🧠 Data Structures & Algorithms
+- 🔧 Love working with Arduino & IoT systems
+- 📱 Android app development enthusiast
+- 🧠 Focused on DSA & problem solving
+- 🚀 Always building something new
 
 ---
 
-## 🚀 Featured Projects
-> Replace `YOUR_REPO_LINK` with your repository link (or remove the line if you don’t have it yet).
+## 🛠️ Tech Stack (Click-style badges)
 
-<details>
-  <summary><b>📌 RFID-Based Attendance System</b> (Arduino + Bluetooth + Mobile App)</summary>
-  <br/>
-
-- ✅ RFID scan → Bluetooth send → Android app stores attendance  
-- 🧩 Components: RFID reader, Arduino, Bluetooth module, Android app  
-- 🔗 Repo: `YOUR_REPO_LINK`
-</details>
-
-<details>
-  <summary><b>📌 Android Game Library App</b> (Java + Database)</summary>
-  <br/>
-
-- ✅ Browse games, favorites, search/filter  
-- 🗃️ Database: SQLite / Room  
-- 🔗 Repo: `YOUR_REPO_LINK`
-</details>
-
-<details>
-  <summary><b>📌 DSA Practice</b> (C++)</summary>
-  <br/>
-
-- ✅ Topics: arrays, sorting, recursion, graphs (ongoing)  
-- 🏁 Goal: consistency + clean solutions + explanations  
-- 🔗 Repo: `YOUR_REPO_LINK`
-</details>
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-green?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge)
 
 ---
 
-## 🎯 Current Goals
-- Become strong in DSA (arrays, graphs, sorting, etc.)
-- Build 3–5 real-world Android/IoT projects
-- Improve system design thinking
-- Start freelancing-ready portfolio
+## 🚀 Projects (Click to explore)
+
+### 📌 RFID Attendance System
+> Arduino + Bluetooth + Mobile App  
+✔ Auto attendance tracking  
+✔ Hardware + software integration
+
+---
+
+### 📌 Android Game Library App
+> Java + Database  
+✔ Store & manage game data  
+✔ Simple UI system
+
+---
+
+### 📌 DSA Practice
+> C++  
+✔ Sorting, graphs, recursion  
+✔ Problem solving daily
 
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tauhid3K&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tauhid3K&layout=compact&theme=tokyonight" />
-</p>
 
-<p align="left">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tauhid3K&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tauhid3K&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tauhid3K&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tauhid3K&theme=tokyonight)
 
 ---
 
-## 📫 Connect with me
-- 💼 LinkedIn: (your link)  
-- 🧑‍💻 GitHub: https://github.com/Tauhid3K
-
----
-
-> “Build. Break. Learn. Repeat.”
-````
+## 🎯 Currently Working On (Live Focus)
+```txt
+[✔] RFID Attendance System
+[✔] Android Game Library App
+[✔] DSA (Arrays + Graphs)
+[⏳] Portfolio Website
