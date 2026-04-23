@@ -34,6 +34,16 @@ Currently focused on Android development, IoT systems, and strengthening my DSA 
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tauhid3K&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tauhid3K&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tauhid3K&theme=tokyonight)
+
+---
+
 ## 📫 Connect with me
 LinkedIn: (your link)  
 GitHub: https://github.com/Tauhid3K
@@ -41,6 +51,3 @@ GitHub: https://github.com/Tauhid3K
 ---
 
 > “Build. Break. Learn. Repeat.”
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tauhid3K&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tauhid3K&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tauhid3K&theme=tokyonight)
