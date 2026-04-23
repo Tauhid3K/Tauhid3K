@@ -1,59 +1,36 @@
 # 👋 Hey, I'm Tauhid Shahriar
 
-🎓 CSE Student | 📱 Android Developer | 🤖 IoT & Arduino Builder  
-💡 I build real-world systems using code + hardware + logic
-
----
-
-## 🎮 Quick Navigation
-- [💡 About Me](#-about-me)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [🚀 Projects](#-projects)
-- [📊 GitHub Stats](#-github-stats)
-- [📫 Connect](#-connect-with-me)
+🎓 CSE Student | 📱 Android Developer | 🤖 IoT & Arduino Builder
 
 ---
 
 ## 💡 About Me
-> I like building things that solve real problems.
-
-- 🔧 Love working with Arduino & IoT systems
-- 📱 Android app development enthusiast
-- 🧠 Focused on DSA & problem solving
-- 🚀 Always building something new
+I enjoy building real-world systems using code, hardware, and logic.  
+Currently focused on Android development, IoT systems, and strengthening my DSA skills.
 
 ---
 
-## 🛠️ Tech Stack (Click-style badges)
-
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![Android](https://img.shields.io/badge/Android-green?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge)
-
----
-
-## 🚀 Projects (Click to explore)
-
-### 📌 RFID Attendance System
-> Arduino + Bluetooth + Mobile App  
-✔ Auto attendance tracking  
-✔ Hardware + software integration
+## 🛠️ Tech Stack
+- 💻 Languages: C, C++, Java
+- 📱 Android Studio
+- 🔌 Arduino / IoT (RFID, sensors, Bluetooth)
+- 🌐 Basic Web Development
+- 🧠 Data Structures & Algorithms
 
 ---
 
-### 📌 Android Game Library App
-> Java + Database  
-✔ Store & manage game data  
-✔ Simple UI system
+## 🚀 Projects I'm Working On
+- 📌 RFID-Based Attendance System (Arduino + Bluetooth + Mobile App)
+- 📌 Android Game Library App (Java + Database)
+- 📌 DSA Practice (C++)
 
 ---
 
-### 📌 DSA Practice
-> C++  
-✔ Sorting, graphs, recursion  
-✔ Problem solving daily
+## 🎯 Current Goals
+- Become strong in DSA (arrays, graphs, sorting, etc.)
+- Build 3–5 real-world Android/IoT projects
+- Improve system design thinking
+- Start freelancing-ready portfolio
 
 ---
 
@@ -67,9 +44,10 @@
 
 ---
 
-## 🎯 Currently Working On (Live Focus)
-```txt
-[✔] RFID Attendance System
-[✔] Android Game Library App
-[✔] DSA (Arrays + Graphs)
-[⏳] Portfolio Website
+## 📫 Connect with me
+LinkedIn: (your link)  
+GitHub: https://github.com/Tauhid3K
+
+---
+
+> “Build. Break. Learn. Repeat.”
